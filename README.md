@@ -1,0 +1,2 @@
+# idleberg-vscode-nsis
+NSIS
